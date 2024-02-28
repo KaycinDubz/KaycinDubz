@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @KaycinDubz, musical artist, and sound designer 10 years into music production. 
+- 👀 I’m interested in helping out the music community by developing vst plugins. 
+- 🌱 I’m currently learning to code, as well as read multiple code languages. 
+- 💞️ I’m not open to collaborate at the moment, but am open to future projects once I understand what i'm doing with code!
+- 📫 you can reach me at KAYCINDUBZ@YAHOO.COM
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I produce bass music, specifically Riddim Dubstep
+- I hope you enjoy the products i'm going to be releasing! Any and all feedback is very much appreciated, as i'm extremely new to coding! 
